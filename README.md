@@ -44,10 +44,10 @@ From **responsive UIs** to **data-driven apps** and **web scraping pipelines**, 
 ---
 
 ## 📫 Contact Me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=flat)](https://github.com/yourusername)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.gg/yourhandle)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/yourhandle)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:youremail@example.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=flat)](https://github.com/MSyedJubair)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.gg/syedjubair)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/m.syedjubair)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:m.syedjubair@gmail.com)  
 
 ---
 
